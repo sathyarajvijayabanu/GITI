@@ -1,2 +1,0 @@
-# GITI
-GITI
